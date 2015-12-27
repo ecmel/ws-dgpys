@@ -1,5 +1,5 @@
 # ws-dgpys
-EPIAS Web Service Client
+EPIAS Axis2 Web Service Client
 
 ## Example Usage
 
