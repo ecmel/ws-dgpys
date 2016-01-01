@@ -1,5 +1,5 @@
 # ws-dgpys
-EPIAS Axis2 Web Service Client
+EPIAS (PMUM) Axis2 Web Service Client
 
 ## Example Usage
 
